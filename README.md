@@ -31,5 +31,3 @@ Project for learning React
     -Обработка ошибок
 
     -useEffect
-
-    -ReactDOM.createPortal
